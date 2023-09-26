@@ -1,11 +1,14 @@
 {
   "maxLoad": 80,
   "recommended": true,
-  "privateKey": "",
-  "limit": 1,
+  "privateKey": "y1aRAyfC2yEU67QArlyokY8nRgdMfUdzbFeJxZCN8KI=",
+  "limit": 3,
+  "dns": "9.9.9.9",
+  "debug": true,
+  "strictVPN": true,
+  "routeDNS": false,
   "countries": [
-    "Portugal",
-    "Georgia",
-    "Ukraine"
+    "United Kingdom",
+    "United States"
   ]
 }
